@@ -9,8 +9,8 @@ Everyone's doing it... another year of Advent of Code!
 
 ## Answer list
 
-1.
-    - [Part A](1/a.md)
+- [Hello, world!](00/)
+- [Day 1](01/)
 
 ## Language and approach
 
