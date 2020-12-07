@@ -24,7 +24,8 @@ have done 30 years ago, like in C\+\+ before the STL.
 
 I was stuck trying to figure out the closed form soulution for converting between a number spiral (like an Ulam sprial) and a vector or complex number, which would yield the Manhattan distance, e.g.
 
-
+| | |
+|---|---|---|
 |   5    |    4   |   3  |
 | -1+i   |    i   |  1+i |
 |--------|--------|------|
