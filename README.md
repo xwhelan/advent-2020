@@ -7,6 +7,10 @@ Everyone's doing it... another year of Advent of Code!
 - Every day is a directory
 - There is also a shared namespace/module `advent` to share solutions
 
+## Answer list
+
+1.
+    - [Part A](1/a.md)
 
 ## Language and approach
 
